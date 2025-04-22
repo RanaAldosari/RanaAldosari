@@ -2,9 +2,7 @@
 <h3 align="center">I'm a passionate front-end developer specializing in building responsive, dynamic, and user-friendly websites using modern web technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS.<br>
 I strive to transform creative ideas into interactive digital experiences. I'm a continuous learner and always look forward to exploring new tools, frameworks, and technologies to advance my skills and build websites with innovative and purposeful solutions. I believe that every project is an opportunity for growth, learning, and development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaaldosari&label=Profile%20views&color=0e75b6&style=flat" alt="ranaaldosari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaaldosari" alt="ranaaldosari" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 

@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rana Aldosari</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I am a passionate front-end developer specializing in building responsive, dynamic, and user-friendly websites using modern web technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. I strive to transform creative ideas into interactive digital experiences. I am a continuous learner and always look forward to exploring new tools, frameworks, and technologies to advance my skills and build websites with innovative and purposeful solutions. I believe that every project is an opportunity for growth, learning, and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaaldosari&label=Profile%20views&color=0e75b6&style=flat" alt="ranaaldosari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaaldosari" alt="ranaaldosari" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RanaAldosari](https://github.com/RanaAldosari)
 

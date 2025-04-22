@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/rana-aldosari-08b84a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/rana-aldosari-08b84a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/rana-aldosari-08b84a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
 <p align="left">
 </p>
 

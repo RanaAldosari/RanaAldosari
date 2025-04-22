@@ -26,4 +26,3 @@ I strive to transform creative ideas into interactive digital experiences. I'm a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranaaldosari&show_icons=true&locale=en" alt="ranaaldosari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaldosari&" alt="ranaaldosari" /></p>

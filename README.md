@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rana Aldosari</h1>
-<h3 align="center">I am a passionate front-end developer specializing in building responsive, dynamic, and user-friendly websites using modern web technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. I strive to transform creative ideas into interactive digital experiences. I am a continuous learner and always look forward to exploring new tools, frameworks, and technologies to advance my skills and build websites with innovative and purposeful solutions. I believe that every project is an opportunity for growth, learning, and development.</h3>
+<h3 align="center">I am a passionate front-end developer specializing in building responsive, dynamic, and user-friendly websites using modern web technologies, including HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS.<br>
+I strive to transform creative ideas into interactive digital experiences. I am a continuous learner and always look forward to exploring new tools, frameworks, and technologies to advance my skills and build websites with innovative and purposeful solutions. I believe that every project is an opportunity for growth, learning, and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaaldosari&label=Profile%20views&color=0e75b6&style=flat" alt="ranaaldosari" /> </p>
 
